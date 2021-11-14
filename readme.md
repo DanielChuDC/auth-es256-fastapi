@@ -17,3 +17,4 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 
+### Warning! Please remember to change your JWK key set for your own project.
